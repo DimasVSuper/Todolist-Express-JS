@@ -2,6 +2,12 @@
 
 API Todo sederhana yang aman dan terstruktur menggunakan **Express.js + Prisma + MySQL** dengan fitur keamanan bawaan seperti rate limiting, validasi input, CORS, dan logging.
 
+## Catatan
+
+Proyek ini adalah **hasil pembelajaran saya** dalam membangun REST API menggunakan Express, Prisma, dan MySQL.
+
+Proyek ini dibangun dengan bantuan **GitHub Copilot** (AI pair programmer) untuk mempercepat proses coding dan memahami praktik terbaik.
+
 ---
 
 ## Quick Start
