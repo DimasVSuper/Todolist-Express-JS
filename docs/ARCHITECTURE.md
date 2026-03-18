@@ -2,7 +2,7 @@
 
 Proyek ini disusun untuk kejelasan, pemisahan tanggung jawab, dan kemudahan ekstensi.
 
-## 🧱 Lapisan
+## Lapisan
 
 ### 1) **Titik Masuk**
 - `index.js` mem-boot aplikasi dengan memuat `.env` dan memulai server.
@@ -32,7 +32,7 @@ Proyek ini disusun untuk kejelasan, pemisahan tanggung jawab, dan kemudahan ekst
 
 ---
 
-## 🔁 Alur Data (Contoh: Buat Todo)
+## Alur Data (Contoh: Buat Todo)
 
 1. Permintaan mencapai `src/routes/todos.js`.
 2. Middleware validasi memeriksa badan permintaan.
@@ -43,7 +43,7 @@ Proyek ini disusun untuk kejelasan, pemisahan tanggung jawab, dan kemudahan ekst
 
 ---
 
-## 🧩 Memperluas Arsitektur
+## Memperluas Arsitektur
 
 Untuk menambahkan fitur baru (misalnya, `users`, `comments`):
 1. Tambahkan model Prisma
